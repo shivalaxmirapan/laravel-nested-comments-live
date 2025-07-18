@@ -39,7 +39,7 @@ Follow the steps below to get the project up and running locally.
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/shivalaxmirapan/laravel-nested-comments
+git clone https://github.com/shivalaxmirapan/laravel-nested-comments-live
 cd laravel-nested-comments
 
 # 2️⃣ Install PHP dependencies
